@@ -1,5 +1,12 @@
 # Predicting Heart Disease (Synthetic Data)
 
+> **Notice:** This repository is for educational and architectural demonstration 
+> purposes only. The logic and data models contained herein are not intended for 
+> use in clinical decision-making, patient care, or production-level healthcare 
+> environments. They have not been validated for safety, compliance, or regulatory 
+> requirements. For inquiries regarding clinical AI governance, model validation, 
+> or safety architectural audits, please contact the author.
+
 ## Overview
 This project demonstrates a baseline machine learning workflow applied to a **synthetic healthcare dataset**.  
 The goal is not clinical prediction, but to practice correct model training, validation, and evaluation while critically assessing data limitations.
