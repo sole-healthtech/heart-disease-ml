@@ -62,3 +62,6 @@ Building a technically correct model is straightforward; determining whether the
 
 Future work would focus on clinically grounded features, longitudinal data, and evaluation metrics aligned with patient safety.
 
+## Work with me
+
+I audit clinical AI systems for failure modes that technical testing cannot catch. [Book a discovery call →](https://calendly.com/sole-clinicalai/30min)
